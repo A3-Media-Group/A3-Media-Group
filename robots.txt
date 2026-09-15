@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://a3mediagroup.com.br/sitemap.xml

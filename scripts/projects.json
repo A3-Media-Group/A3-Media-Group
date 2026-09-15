@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Amor de Berço",
+    "category": "Maternidade &amp; Parentalidade",
+    "description": "Portal editorial sobre maternidade, bebês e parentalidade, com conteúdos organizados por etapa da jornada.",
+    "url": "https://amordeberco.com.br/",
+    "image": "assets/img/projeto-1.jpg"
+  },
+  {
+    "name": "Clube da Receita",
+    "category": "Portal de Receitas",
+    "description": "Portal de conteúdo culinário com receitas, dicas e navegação otimizada.",
+    "url": "https://clubedareceita.com.br/",
+    "image": "assets/img/projeto-2.jpg"
+  },
+  {
+    "name": "Casa e Harmonia",
+    "category": "Decoração &amp; Lifestyle",
+    "description": "Blog de decoração e estilo de vida, com conteúdo editorial e design elegante.",
+    "url": "https://casaeharmonia.com.br/",
+    "image": "assets/img/projeto-3.jpg"
+  },
+  {
+    "name": "Carro Sem Surpresa",
+    "category": "Portal Automotivo",
+    "description": "Conteúdo e ferramentas para entender os custos de ter um carro no Brasil.",
+    "url": "https://carrosemsurpresa.com.br/",
+    "image": "assets/img/projeto-4.jpg"
+  },
+  {
+    "name": "Foco Vida Fit",
+    "category": "Fitness &amp; Saúde",
+    "description": "Blog de fitness e saúde com treinos, nutrição e conteúdo motivacional.",
+    "url": "https://focovidafit.com.br/",
+    "image": "assets/img/projeto-5.jpg"
+  },
+  {
+    "name": "No Comando do Dinheiro",
+    "category": "Educação Financeira",
+    "description": "Portal de conteúdo sobre finanças pessoais e educação financeira.",
+    "url": "https://nocomandododinheiro.com.br/",
+    "image": "assets/img/projeto-6.jpg"
+  },
+  {
+    "name": "Ponte Financeira",
+    "category": "Educação Financeira",
+    "description": "Portal de educação financeira sobre organização das finanças, dívidas e planejamento.",
+    "url": "https://www.pontefinanceira.com.br/",
+    "image": "assets/img/projeto-7.jpg"
+  },
+  {
+    "name": "Aprenda Católico",
+    "category": "Fé &amp; Educação",
+    "description": "Portal de conteúdo educativo sobre a fé e a doutrina católica.",
+    "url": "https://aprendacatolico.com.br/",
+    "image": "assets/img/projeto-8.jpg"
+  },
+  {
+    "name": "Clube Bicho &amp; Cia",
+    "category": "Pet &amp; Bem-estar Animal",
+    "description": "Conteúdo sobre cuidados com pets e ferramentas para o dia a dia dos tutores.",
+    "url": "https://clubebichoecia.com.br/",
+    "image": "assets/img/projeto-9.jpg"
+  }
+]

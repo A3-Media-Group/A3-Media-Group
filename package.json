@@ -1,0 +1,26 @@
+{
+  "name": "a3-media-group",
+  "version": "1.0.0",
+  "description": "Site institucional multipáginas da A3 Media Group",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "start": "node scripts/serve.cjs",
+    "test": "node scripts/verify.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A3-Media-Group/A3-Media-Group.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/A3-Media-Group/A3-Media-Group/issues"
+  },
+  "homepage": "https://github.com/A3-Media-Group/A3-Media-Group#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  },
+  "private": true
+}
