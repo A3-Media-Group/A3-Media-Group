@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- A3 Media Group — ícone/monograma (fundo transparente) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" role="img" aria-labelledby="a3IconTitle">
+  <title id="a3IconTitle">A3 Media Group</title>
+  <defs>
+    <linearGradient id="iconSilver" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#C9D4E6"/>
+      <stop offset="100%" stop-color="#8FA3C4"/>
+    </linearGradient>
+    <linearGradient id="iconBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4FD8EF"/>
+      <stop offset="45%" stop-color="#2E8BFF"/>
+      <stop offset="100%" stop-color="#0B3FCC"/>
+    </linearGradient>
+    <linearGradient id="iconSwoosh" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#4FD8EF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0B5FFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- swoosh -->
+  <ellipse cx="165" cy="150" rx="152" ry="46" fill="none" stroke="url(#iconSwoosh)" stroke-width="7" stroke-linecap="round" transform="rotate(-10 165 150)"/>
+
+  <!-- "A" mountain glyph -->
+  <path d="M92 40 L172 230 L128 230 L92 138 L56 230 L14 230 Z" fill="url(#iconSilver)"/>
+  <path d="M92 118 L118 182 L66 182 Z" fill="#0A0F24" opacity="0.55"/>
+
+  <!-- "3" glyph -->
+  <path d="M188 40
+           C238 40 268 62 268 96
+           C268 118 254 132 234 138
+           C258 144 276 160 276 186
+           C276 222 244 244 194 244
+           C168 244 144 238 124 224
+           L146 190
+           C160 200 176 206 192 206
+           C216 206 232 196 232 178
+           C232 160 216 150 190 150
+           L178 150 L178 116 L188 116
+           C210 116 224 108 224 92
+           C224 78 212 70 192 70
+           C176 70 162 76 150 86
+           L128 54
+           C146 44 166 40 188 40 Z"
+        fill="url(#iconBlue)"/>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050914"/>
+      <stop offset="55%" stop-color="#0A0F24"/>
+      <stop offset="100%" stop-color="#0B1636"/>
+    </linearGradient>
+    <linearGradient id="ogBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#4FD8EF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0B5FFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0B5FFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="silverOg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#C9D4E6"/>
+      <stop offset="100%" stop-color="#8FA3C4"/>
+    </linearGradient>
+    <linearGradient id="blueOgIcon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4FD8EF"/>
+      <stop offset="45%" stop-color="#2E8BFF"/>
+      <stop offset="100%" stop-color="#0B3FCC"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="150" r="420" fill="url(#glow)"/>
+  <circle cx="150" cy="560" r="320" fill="url(#glow)"/>
+
+  <g transform="translate(80,150) scale(0.85)">
+    <path d="M82 24 L152 196 L114 196 L82 112 L50 196 L14 196 Z" fill="url(#silverOg)"/>
+    <path d="M82 96 L104 152 L60 152 Z" fill="#0A0F24" opacity="0.55"/>
+    <path d="M164 24 C206 24 231 42 231 70 C231 88 219 100 202 105 C222 110 237 123 237 145 C237 175 210 194 168 194 C146 194 126 189 109 177 L128 149 C140 157 154 162 168 162 C188 162 201 154 201 139 C201 124 188 116 166 116 L156 116 L156 88 L164 88 C182 88 194 81 194 68 C194 56 184 49 168 49 C154 49 142 54 132 63 L113 36 C129 28 146 24 164 24 Z" fill="url(#blueOgIcon)"/>
+  </g>
+
+  <text x="80" y="380" font-family="'Sora','Space Grotesk',Arial,sans-serif" font-weight="700" font-size="64" fill="#F2F5FA">Tecnologia que</text>
+  <text x="80" y="452" font-family="'Sora','Space Grotesk',Arial,sans-serif" font-weight="700" font-size="64" fill="url(#ogBlue)">Impulsiona Negócios</text>
+  <text x="80" y="510" font-family="Inter,Arial,sans-serif" font-weight="500" font-size="26" letter-spacing="2" fill="#93A6CC">SITES · APLICATIVOS WEB · APPS MOBILE · SOLU&#199;&#213;ES DIGITAIS</text>
+  <text x="80" y="560" font-family="Inter,Arial,sans-serif" font-weight="600" font-size="26" fill="#4FD8EF">A3 MEDIA GROUP</text>
+</svg>
